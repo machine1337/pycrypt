@@ -1,3 +1,2 @@
 termcolor
-requests
-cryptlib
+pystyle
